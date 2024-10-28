@@ -4,6 +4,8 @@
 
 Current research on the structural learning of hyper-relational facts is limited and has not fully captured the intrinsic connections between various facts. To address this issue, this paper proposes a link prediction method based on heterogeneous graph structure. By learning the heterogeneous graph structure of hyper-relational facts, our method aims to reveal the intrinsic relationships within hyper-relational facts.
 
+<img src="./figs/framework.png" alt="The framework of our model." style="zoom: 67%;" />
+
 ## Requirements
 
 The project environment installation commands are as follows:
