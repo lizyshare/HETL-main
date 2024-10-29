@@ -58,4 +58,4 @@ For Wikipeople-4, run the command with the following hyperparameters:
 
 ## Acknowledge
 
-The code framework is derived from https://github.com/LHRLAB/HAHE .
+The code framework is derived from https://github.com/LHRLAB/HAHE. We would like to appreciate their open-sourced work.
