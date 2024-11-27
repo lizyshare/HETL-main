@@ -1,4 +1,4 @@
-# HETL
+# HETL (Heterogeneous Structure Learning Based Link Prediction in Knowledge Hypergraphs)
 
 ## Introduction
 
